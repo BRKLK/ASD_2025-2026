@@ -1,2 +1,3 @@
-for i in range(1, 1):
-    print('hello')
+a = ", gg"
+
+print(a.split(","))
